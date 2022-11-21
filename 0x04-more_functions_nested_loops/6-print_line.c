@@ -1,8 +1,8 @@
 #include "main.h"
 
-/*
-* print_line - function that draws a straight line
-*@n: number of times underscore would be printed
+/**
+* print_line - function that draws a straight line.
+* @n: number of times underscore would be printed.
 *
 * Return: Always 0
 */
